@@ -3,7 +3,7 @@
 
 Portfolio modern yang dibangun dengan Next.js, Tailwind CSS, dan Supabase. Dilengkapi dengan Admin Dashboard, Blog, dan Project Showcase.
 
-## 🚀 Fitur Utama
+## 🚀 Fitur Utama dalam aplikasi yang saya buat : 
 - **CRUD Content**: Kelola Blog dan Project langsung dari dashboard admin.
 - **Supabase Auth**: Login aman khusus untuk Admin.
 - **Supabase Storage**: Upload gambar artikel dan thumbnail project dengan mudah.
