@@ -52,12 +52,6 @@ Portfolio modern yang dibangun dengan Next.js, Tailwind CSS, dan Supabase. Dilen
    - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
 4. **Deploy**: Klik tombol **Deploy** dan tunggu proses selesai.
 
----
-
-made by studio 
-
 ## 📝 Catatan Penting
 - **RLS (Row Level Security)**: Pastikan RLS diaktifkan di Supabase. Script SQL di `lib/supabase.ts` sudah menyertakan policy agar publik hanya bisa membaca (Read) dan admin (Authenticated) bisa melakukan CRUD.
 - **Slug**: Sistem akan otomatis membuat slug dari judul (title) saat Anda menyimpan konten.
-
-Dibuat dengan ❤️ oleh DevPort.
