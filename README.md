@@ -1,5 +1,5 @@
 
-# DevPort | Senior Full-Stack Portfolio
+# DevPort | Alaika Portfolio
 
 Portfolio modern yang dibangun dengan Next.js, Tailwind CSS, dan Supabase. Dilengkapi dengan Admin Dashboard, Blog, dan Project Showcase.
 
