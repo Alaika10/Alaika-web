@@ -1,7 +1,7 @@
 
 # DevPort | Alaika Portfolio
 
-Portfolio modern yang dibangun dengan Next.js, Tailwind CSS, dan Supabase. Dilengkapi dengan Admin Dashboard, Blog, dan Project Showcase.
+Portfolio modern dan interaktif yang dibangun dengan Next.js, Tailwind CSS, dan Supabase. Dilengkapi dengan Admin Dashboard, Blog, dan Project Showcase.
 
 ## 🚀 Fitur Utama
 - **CRUD Content**: Kelola Blog dan Project langsung dari dashboard admin.
